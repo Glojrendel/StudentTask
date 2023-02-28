@@ -1,0 +1,6 @@
+﻿  main.cpp
+B:\C++ practice\DailyC++\main.cpp(74): warning C4715: 'Student::Menu': not all control paths return a value
+B:\C++ practice\DailyC++\main.cpp(119): warning C4715: 'Student::ShowStudentList': not all control paths return a value
+B:\C++ practice\DailyC++\main.cpp(105): warning C4715: 'Student::AddStudent': not all control paths return a value
+B:\C++ practice\DailyC++\main.cpp(147): warning C4715: 'Student::Sort_by_score': not all control paths return a value
+  DailyC++.vcxproj -> B:\C++ practice\DailyC++\x64\Debug\DailyC++.exe
