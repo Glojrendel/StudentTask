@@ -1,1 +1,0 @@
-Count, hom many symbols inside the file.
